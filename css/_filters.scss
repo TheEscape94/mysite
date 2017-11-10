@@ -1,0 +1,28 @@
+/*------------------------FILTERS----------------------------*/
+
+.filters {
+    width: 100%;
+    padding: 40px;
+}
+
+.filters p {
+    float: left;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+
+.filters a {
+    float: right;
+    padding: 0 15px;
+    text-decoration: none;
+    border-left: 1px solid #333;
+}
+
+.filters a:hover {
+    color: #2aa6df;
+}
+
+.filters a:last-child {
+    border: none;
+}
